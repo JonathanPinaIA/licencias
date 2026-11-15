@@ -1,5 +1,14 @@
 {
   "version": 1,
   "actualizado": "2026-11-15",
-  "claves": {}
+  "claves": {
+    "UUQW-22CN-XPRD-KVQU": {
+      "cliente": "Prueba Interna",
+      "email": "",
+      "creada": "2026-11-15",
+      "expira": "2026-12-15",
+      "estado": "activa",
+      "notas": ""
+    }
+  }
 }
